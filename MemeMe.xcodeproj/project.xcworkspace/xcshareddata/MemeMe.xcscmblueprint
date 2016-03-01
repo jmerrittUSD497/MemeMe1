@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4D4A42390832FB6AAA7DDE98273F5A1EBB488294",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4D4A42390832FB6AAA7DDE98273F5A1EBB488294" : 0,
+    "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5918780F-50C5-42B9-9CA0-E7BF40D0EE3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4D4A42390832FB6AAA7DDE98273F5A1EBB488294" : "MemeMe\/",
+    "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MemeMe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MemeMe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/udacity\/ios-nanodegree-uikit-2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jmerrittUSD497\/MemeMe1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D4A42390832FB6AAA7DDE98273F5A1EBB488294"
+    }
+  ]
+}
